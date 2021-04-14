@@ -6,5 +6,6 @@ class Program
         {
             System.Console.WriteLine("Ku");
         }
+        System.Console.WriteLine("End of program");
     }
 }
