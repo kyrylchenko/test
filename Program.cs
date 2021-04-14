@@ -12,7 +12,7 @@ class Program
 
     static void Main(string[] args)
     {
-        Func();
+        Console.WriteLine("Hello world!");
     }
 }
 
